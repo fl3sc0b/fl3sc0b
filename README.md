@@ -3,6 +3,8 @@
 - 💞️ I’m looking to collaborate on a video game development project. I have some experience with the 2D Unity engine.
 - 📫 Please, feel free to contact me at the email address below !
 
+![my-email-address](https://user-images.githubusercontent.com/38964606/119236225-8c376200-bb36-11eb-8120-4d2eff7878df.png)
+
 
 
 <!---
